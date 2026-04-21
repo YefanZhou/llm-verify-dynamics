@@ -56,3 +56,8 @@ See the [`examples/`](examples/) directory for more details. Modify the scripts 
 ## Visualization 
 ### 1. RQ1 Problem difficulty influences the TPR
 See the [`visualization/rq1.ipynb`](visualization/rq1.ipynb)
+### 2. RQ2 Generator capability influences the TNR
+Run the [`visualization/rq2_vis_prepare.sh`](visualization/rq2_vis_prepare.sh)
+See the [`visualization/rq2.ipynb`](visualization/rq2.ipynb)
+### 2. RQ3 
+See the [`visualization/rq3.ipynb`](visualization/rq3.ipynb)
