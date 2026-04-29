@@ -59,5 +59,9 @@ See the [`visualization/rq1.ipynb`](visualization/rq1.ipynb)
 ### 2. RQ2 Generator capability influences the TNR
 Run the [`visualization/rq2_vis_prepare.sh`](visualization/rq2_vis_prepare.sh)
 See the [`visualization/rq2.ipynb`](visualization/rq2.ipynb)
-### 2. RQ3 
+### 3. RQ3 Verifier solving capability influences the Verifi Performance
 See the [`visualization/rq3.ipynb`](visualization/rq3.ipynb)
+### 4. RQ4 / RQ5  Implication of dynamics above on TTS 
+The TTS inference results can downloaded from [huggingface dataset](https://huggingface.co/datasets/YefanZhou98/LLMVerify-Verifier).
+Run the [`visualization/rq4_5_tts.py`](visualization/rq4_5_tts.py) to simulate TTS.
+Then vis by [`visualization/rq4_5_tts.ipynb`](visualization/rq4_5_tts.ipynb)
